@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-12T15:35:15.362Z",
+  "updatedAt": "2026-10-12T17:33:40.829Z",
   "problems": [
     {
       "frontendId": "1748",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/1748-sum-of-unique-elements/1748-sum-of-unique-elements.java",
           "sha": "03dd0e5907cff487faf13ce7b8a6b9f18f343917",
           "lastSyncedAt": "2026-10-12T15:35:15.362Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3866",
+      "title": "First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "problemName": "3866-first-unique-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-even-element/",
+      "folderPath": "LeetCode-Submission/3866-first-unique-even-element/",
+      "readmePath": "LeetCode-Submission/3866-first-unique-even-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3866-first-unique-even-element.java",
+          "path": "LeetCode-Submission/3866-first-unique-even-element/3866-first-unique-even-element.java",
+          "sha": "285e8dd5313e4fbe0147cb894c30a2de010aadcd",
+          "lastSyncedAt": "2026-10-12T17:33:40.829Z"
         }
       ]
     }

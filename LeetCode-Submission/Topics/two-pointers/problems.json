@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T09:48:23.727Z",
+  "updatedAt": "2026-10-14T09:48:34.310Z",
   "problems": [
     {
       "frontendId": "125",
@@ -144,6 +144,26 @@
           "path": "LeetCode-Submission/0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "d256b8fbc55e883daa06256c157f61b4a9a5264d",
           "lastSyncedAt": "2026-10-14T09:46:30.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "LeetCode-Submission/0876-middle-of-the-linked-list/",
+      "readmePath": "LeetCode-Submission/0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0876-middle-of-the-linked-list.py",
+          "path": "LeetCode-Submission/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py",
+          "sha": "d08bb77ba1438a8591d527ccd24bf9328b588628",
+          "lastSyncedAt": "2026-10-14T09:48:34.310Z"
         }
       ]
     }

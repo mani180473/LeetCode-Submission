@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:45:23.173Z",
+  "updatedAt": "2026-10-14T09:45:30.087Z",
   "problems": [
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "LeetCode-Submission/0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "LeetCode-Submission/0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0081-search-in-rotated-sorted-array-ii.py",
+          "path": "LeetCode-Submission/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
+          "sha": "576550eff6c2d3d793599b079476e8653a11039f",
+          "lastSyncedAt": "2026-10-14T09:45:30.087Z"
+        }
+      ]
+    },
     {
       "frontendId": "153",
       "title": "Find Minimum in Rotated Sorted Array",

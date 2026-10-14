@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:45:30.087Z",
+  "updatedAt": "2026-10-14T09:45:36.960Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "LeetCode-Submission/0033-search-in-rotated-sorted-array/",
+      "readmePath": "LeetCode-Submission/0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "LeetCode-Submission/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "d230c2c9041e73c72b5699e0ec257dd6b97d246e",
+          "lastSyncedAt": "2026-10-14T09:45:36.960Z"
+        }
+      ]
+    },
     {
       "frontendId": "81",
       "title": "Search in Rotated Sorted Array II",

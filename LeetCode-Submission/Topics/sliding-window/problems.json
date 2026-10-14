@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-14T09:46:49.458Z",
+  "updatedAt": "2026-10-14T09:46:58.013Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "f1a157dfd7494635b301e31ecc1483974373e728",
           "lastSyncedAt": "2026-10-14T09:46:49.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "LeetCode-Submission/0209-minimum-size-subarray-sum/",
+      "readmePath": "LeetCode-Submission/0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0209-minimum-size-subarray-sum.py",
+          "path": "LeetCode-Submission/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
+          "sha": "5d390f3a49a26e537dcb7b5a9f3873b303301a5e",
+          "lastSyncedAt": "2026-10-14T09:46:58.013Z"
         }
       ]
     },

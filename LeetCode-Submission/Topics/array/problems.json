@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:49:45.900Z",
+  "updatedAt": "2026-10-14T09:49:55.728Z",
   "problems": [
     {
       "frontendId": "15",
@@ -404,6 +404,26 @@
           "path": "LeetCode-Submission/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
           "sha": "c8c99122115c668fea20582688274f6927ff7834",
           "lastSyncedAt": "2026-10-14T09:46:17.533Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "LeetCode-Submission/1306-jump-game-iii/",
+      "readmePath": "LeetCode-Submission/1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1306-jump-game-iii.py",
+          "path": "LeetCode-Submission/1306-jump-game-iii/1306-jump-game-iii.py",
+          "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
+          "lastSyncedAt": "2026-10-14T09:49:55.728Z"
         }
       ]
     },

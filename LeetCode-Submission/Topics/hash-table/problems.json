@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-14T09:48:13.722Z",
+  "updatedAt": "2026-10-14T09:48:23.727Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "f1a157dfd7494635b301e31ecc1483974373e728",
           "lastSyncedAt": "2026-10-14T09:46:49.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "LeetCode-Submission/0141-linked-list-cycle/",
+      "readmePath": "LeetCode-Submission/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "LeetCode-Submission/0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "67c875985b34fbfef235bbb533f48cc3619042de",
+          "lastSyncedAt": "2026-10-14T09:48:23.727Z"
         }
       ]
     },

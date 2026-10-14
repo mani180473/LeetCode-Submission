@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:47:39.624Z",
+  "updatedAt": "2026-10-14T09:48:41.483Z",
   "problems": [
     {
       "frontendId": "33",
@@ -64,6 +64,26 @@
           "path": "LeetCode-Submission/0035-search-insert-position/0035-search-insert-position.py",
           "sha": "16b3ee3578928fcc20a84b4e3e33e14c7c98548d",
           "lastSyncedAt": "2026-10-14T09:45:51.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "LeetCode-Submission/0075-sort-colors/",
+      "readmePath": "LeetCode-Submission/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "LeetCode-Submission/0075-sort-colors/0075-sort-colors.py",
+          "sha": "9f3407f176de10062384f0034b347b41f15f7d3c",
+          "lastSyncedAt": "2026-10-14T09:48:41.483Z"
         }
       ]
     },

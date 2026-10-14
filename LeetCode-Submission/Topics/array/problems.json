@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T13:26:35.566Z",
+  "updatedAt": "2026-10-14T15:28:38.530Z",
   "problems": [
     {
       "frontendId": "11",
@@ -205,6 +205,14 @@
       "folderPath": "LeetCode-Submission/0075-sort-colors/",
       "readmePath": "LeetCode-Submission/0075-sort-colors/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "LeetCode-Submission/0075-sort-colors/0075-sort-colors.java",
+          "sha": "cd8d6be7fe847b393adbbeb18b4dded894b9dc86",
+          "lastSyncedAt": "2026-10-14T15:28:38.530Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

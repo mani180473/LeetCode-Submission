@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T09:50:30.456Z",
+  "updatedAt": "2026-10-14T09:50:38.203Z",
   "problems": [
     {
       "frontendId": "11",
@@ -264,6 +264,26 @@
           "path": "LeetCode-Submission/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "4dd2883e2d33743967ca9c82c33b65cc94b10ebe",
           "lastSyncedAt": "2026-10-14T09:47:39.624Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "LeetCode-Submission/0344-reverse-string/",
+      "readmePath": "LeetCode-Submission/0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0344-reverse-string.py",
+          "path": "LeetCode-Submission/0344-reverse-string/0344-reverse-string.py",
+          "sha": "5949d668c08dd07566a8a6dfa59c7710df159fcf",
+          "lastSyncedAt": "2026-10-14T09:50:38.203Z"
         }
       ]
     },

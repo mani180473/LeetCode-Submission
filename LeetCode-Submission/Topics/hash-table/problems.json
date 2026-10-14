@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-14T09:43:36.948Z",
+  "updatedAt": "2026-10-14T09:43:45.288Z",
   "problems": [
+    {
+      "frontendId": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "problemName": "1636-sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+      "folderPath": "LeetCode-Submission/1636-sort-array-by-increasing-frequency/",
+      "readmePath": "LeetCode-Submission/1636-sort-array-by-increasing-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1636-sort-array-by-increasing-frequency.java",
+          "path": "LeetCode-Submission/1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.java",
+          "sha": "4145b2c5ddc0795ec2296c7d456eef76b4edda09",
+          "lastSyncedAt": "2026-10-14T09:43:45.288Z"
+        }
+      ]
+    },
     {
       "frontendId": "1748",
       "title": "Sum of Unique Elements",

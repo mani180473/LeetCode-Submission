@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window",
+    "tagId": "55821"
+  },
+  "updatedAt": "2026-10-14T09:46:06.125Z",
+  "problems": [
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "LeetCode-Submission/0424-longest-repeating-character-replacement/",
+      "readmePath": "LeetCode-Submission/0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0424-longest-repeating-character-replacement.py",
+          "path": "LeetCode-Submission/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
+          "sha": "d4ea0e73ea062ebd2f671b9ed13072cf28101c60",
+          "lastSyncedAt": "2026-10-14T09:46:06.125Z"
+        }
+      ]
+    }
+  ]
+}

@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:49:07.145Z",
+  "updatedAt": "2026-10-14T09:49:14.531Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "LeetCode-Submission/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "LeetCode-Submission/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0026-remove-duplicates-from-sorted-array.py",
+          "path": "LeetCode-Submission/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "sha": "63ff8b30bb73caf2d60d1bc3ddadbce1ff0bbc9d",
+          "lastSyncedAt": "2026-10-14T09:49:14.531Z"
+        }
+      ]
+    },
     {
       "frontendId": "27",
       "title": "Remove Element",

@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-14T09:43:55.742Z",
+  "updatedAt": "2026-10-14T09:44:39.518Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "LeetCode-Submission/0347-top-k-frequent-elements/",
+      "readmePath": "LeetCode-Submission/0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0347-top-k-frequent-elements.java",
+          "path": "LeetCode-Submission/0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
+          "sha": "177d98d81ad1466e978dac179f6de69a40738406",
+          "lastSyncedAt": "2026-10-14T09:44:39.518Z"
+        }
+      ]
+    },
     {
       "frontendId": "451",
       "title": "Sort Characters By Frequency",

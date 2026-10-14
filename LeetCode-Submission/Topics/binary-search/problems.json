@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:47:39.624Z",
+  "updatedAt": "2026-10-14T13:26:35.566Z",
   "problems": [
     {
       "frontendId": "33",
@@ -104,6 +104,26 @@
           "path": "LeetCode-Submission/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
           "sha": "862627ca5c11759f38b06efb1887fd2721dae425",
           "lastSyncedAt": "2026-10-14T09:45:23.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "LeetCode-Submission/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "LeetCode-Submission/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.java",
+          "path": "LeetCode-Submission/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
+          "sha": "a48c251db3553581284d9747b12f137ad7dc057c",
+          "lastSyncedAt": "2026-10-14T13:26:35.566Z"
         }
       ]
     },

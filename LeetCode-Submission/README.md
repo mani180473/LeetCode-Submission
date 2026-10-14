@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 21 | 20 | 2 |
+| 44 | 21 | 21 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 6 days | 22 |
+| 4 days | 6 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-01-18 | 2 |
 | 2026-05-13 | 1 |
 | 2026-05-17 | 1 |
 | 2026-05-18 | 2 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
+| 2026-10-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 63% |
-| Two Pointers | 19 | 44% |
-| Hash Table | 16 | 37% |
-| Binary Search | 10 | 23% |
+| Array | 28 | 64% |
+| Two Pointers | 20 | 45% |
+| Hash Table | 16 | 36% |
+| Binary Search | 11 | 25% |
 | String | 10 | 23% |
-| Sorting | 9 | 21% |
+| Sorting | 9 | 20% |
 | Sliding Window | 7 | 16% |
 | Counting | 6 | 14% |
-| Linked List | 5 | 12% |
+| Linked List | 5 | 11% |
 | Floyd's Cycle Finding Algorithm | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
-| [Binary Search](Topics/binary-search/) | 10 |
+| [Array](Topics/array/) | 28 |
+| [Binary Search](Topics/binary-search/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
@@ -77,5 +77,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
-| [Two Pointers](Topics/two-pointers/) | 19 |
+| [Two Pointers](Topics/two-pointers/) | 20 |
 <!---LeetHub Summary End-->

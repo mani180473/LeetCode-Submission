@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T12:31:46.824Z",
+  "updatedAt": "2026-10-14T13:03:02.342Z",
   "problems": [
     {
       "frontendId": "11",
@@ -305,6 +305,14 @@
       "folderPath": "LeetCode-Submission/0283-move-zeroes/",
       "readmePath": "LeetCode-Submission/0283-move-zeroes/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "LeetCode-Submission/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "666ed332fdb4ed5ac72c0116d86c6fdef4ce0696",
+          "lastSyncedAt": "2026-10-14T13:03:02.342Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-14T09:48:41.483Z",
+  "updatedAt": "2026-10-14T09:48:58.113Z",
   "problems": [
     {
       "frontendId": "75",
@@ -104,6 +104,26 @@
           "path": "LeetCode-Submission/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "454f39ecdb949a32886bb0c30277342d516f7c02",
           "lastSyncedAt": "2026-10-14T09:43:55.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "LeetCode-Submission/0977-squares-of-a-sorted-array/",
+      "readmePath": "LeetCode-Submission/0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0977-squares-of-a-sorted-array.py",
+          "path": "LeetCode-Submission/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
+          "sha": "aeddffa67820d49a3e24f992961bb09bfb78e166",
+          "lastSyncedAt": "2026-10-14T09:48:58.113Z"
         }
       ]
     },

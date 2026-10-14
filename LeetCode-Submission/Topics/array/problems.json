@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:48:58.113Z",
+  "updatedAt": "2026-10-14T09:49:07.145Z",
   "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "LeetCode-Submission/0027-remove-element/",
+      "readmePath": "LeetCode-Submission/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0027-remove-element.py",
+          "path": "LeetCode-Submission/0027-remove-element/0027-remove-element.py",
+          "sha": "8a8114ce3eba32d70fbc3fb677438a0158ee22ee",
+          "lastSyncedAt": "2026-10-14T09:49:07.145Z"
+        }
+      ]
+    },
     {
       "frontendId": "33",
       "title": "Search in Rotated Sorted Array",

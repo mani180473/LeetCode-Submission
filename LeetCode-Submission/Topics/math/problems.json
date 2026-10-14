@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-10-14T09:47:59.801Z",
+  "problems": [
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "LeetCode-Submission/0202-happy-number/",
+      "readmePath": "LeetCode-Submission/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0202-happy-number.py",
+          "path": "LeetCode-Submission/0202-happy-number/0202-happy-number.py",
+          "sha": "f66ef6405a098e1f09847c94fd1797b8a83a5c1e",
+          "lastSyncedAt": "2026-10-14T09:47:59.801Z"
+        }
+      ]
+    }
+  ]
+}

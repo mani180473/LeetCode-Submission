@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T09:49:37.819Z",
+  "updatedAt": "2026-10-14T09:49:45.900Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "LeetCode-Submission/0015-3sum/",
+      "readmePath": "LeetCode-Submission/0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "LeetCode-Submission/0015-3sum/0015-3sum.py",
+          "sha": "16f8c6307c6d0005b76aa0a0ca4e3ca837d251c8",
+          "lastSyncedAt": "2026-10-14T09:49:45.900Z"
+        }
+      ]
+    },
     {
       "frontendId": "16",
       "title": "3Sum Closest",

@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-14T09:48:23.727Z",
+  "updatedAt": "2026-10-14T09:50:08.191Z",
   "problems": [
     {
       "frontendId": "3",
@@ -244,6 +244,26 @@
           "path": "LeetCode-Submission/0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "d256b8fbc55e883daa06256c157f61b4a9a5264d",
           "lastSyncedAt": "2026-10-14T09:46:30.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "LeetCode-Submission/1345-jump-game-iv/",
+      "readmePath": "LeetCode-Submission/1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1345-jump-game-iv.py",
+          "path": "LeetCode-Submission/1345-jump-game-iv/1345-jump-game-iv.py",
+          "sha": "7dfbb4fdfa31e1a4cd1c14296853f59aac3d6cee",
+          "lastSyncedAt": "2026-10-14T09:50:08.191Z"
         }
       ]
     },

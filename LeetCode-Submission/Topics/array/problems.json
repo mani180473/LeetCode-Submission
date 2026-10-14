@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:50:18.740Z",
+  "updatedAt": "2026-10-14T09:50:47.100Z",
   "problems": [
     {
       "frontendId": "11",
@@ -284,6 +284,26 @@
           "path": "LeetCode-Submission/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "5d390f3a49a26e537dcb7b5a9f3873b303301a5e",
           "lastSyncedAt": "2026-10-14T09:46:58.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "LeetCode-Submission/0283-move-zeroes/",
+      "readmePath": "LeetCode-Submission/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "LeetCode-Submission/0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "56412c830bca46dea814bcb5b6b0bc76f4c1393a",
+          "lastSyncedAt": "2026-10-14T09:50:47.100Z"
         }
       ]
     },

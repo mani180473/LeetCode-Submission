@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T17:33:40.829Z",
+  "updatedAt": "2026-10-14T09:43:29.278Z",
   "problems": [
     {
       "frontendId": "1748",
@@ -43,7 +43,7 @@
           "filename": "3866-first-unique-even-element.java",
           "path": "LeetCode-Submission/3866-first-unique-even-element/3866-first-unique-even-element.java",
           "sha": "285e8dd5313e4fbe0147cb894c30a2de010aadcd",
-          "lastSyncedAt": "2026-10-12T17:33:40.829Z"
+          "lastSyncedAt": "2026-10-14T09:43:29.278Z"
         }
       ]
     }

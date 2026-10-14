@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-14T09:44:39.518Z",
+  "updatedAt": "2026-10-14T09:48:41.483Z",
   "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "LeetCode-Submission/0075-sort-colors/",
+      "readmePath": "LeetCode-Submission/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "LeetCode-Submission/0075-sort-colors/0075-sort-colors.py",
+          "sha": "9f3407f176de10062384f0034b347b41f15f7d3c",
+          "lastSyncedAt": "2026-10-14T09:48:41.483Z"
+        }
+      ]
+    },
     {
       "frontendId": "169",
       "title": "Majority Element",

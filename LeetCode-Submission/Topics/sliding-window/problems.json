@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-14T09:46:17.533Z",
+  "updatedAt": "2026-10-14T09:46:30.485Z",
   "problems": [
     {
       "frontendId": "424",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "d4ea0e73ea062ebd2f671b9ed13072cf28101c60",
           "lastSyncedAt": "2026-10-14T09:46:06.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "LeetCode-Submission/0567-permutation-in-string/",
+      "readmePath": "LeetCode-Submission/0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "LeetCode-Submission/0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "d256b8fbc55e883daa06256c157f61b4a9a5264d",
+          "lastSyncedAt": "2026-10-14T09:46:30.485Z"
         }
       ]
     },

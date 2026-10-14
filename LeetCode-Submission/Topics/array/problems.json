@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:49:14.531Z",
+  "updatedAt": "2026-10-14T09:49:21.639Z",
   "problems": [
     {
       "frontendId": "26",
@@ -104,6 +104,26 @@
           "path": "LeetCode-Submission/0035-search-insert-position/0035-search-insert-position.py",
           "sha": "16b3ee3578928fcc20a84b4e3e33e14c7c98548d",
           "lastSyncedAt": "2026-10-14T09:45:51.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "LeetCode-Submission/0042-trapping-rain-water/",
+      "readmePath": "LeetCode-Submission/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "LeetCode-Submission/0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "7c1e2582d9902c4face5b6be37cac6f298595539",
+          "lastSyncedAt": "2026-10-14T09:49:21.639Z"
         }
       ]
     },

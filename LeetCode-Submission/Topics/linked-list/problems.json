@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-14T09:48:13.722Z",
+  "updatedAt": "2026-10-14T09:48:23.727Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "LeetCode-Submission/0141-linked-list-cycle/",
+      "readmePath": "LeetCode-Submission/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "LeetCode-Submission/0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "67c875985b34fbfef235bbb533f48cc3619042de",
+          "lastSyncedAt": "2026-10-14T09:48:23.727Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",

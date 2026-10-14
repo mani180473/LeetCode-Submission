@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:49:55.728Z",
+  "updatedAt": "2026-10-14T09:50:08.191Z",
   "problems": [
     {
       "frontendId": "15",
@@ -424,6 +424,26 @@
           "path": "LeetCode-Submission/1306-jump-game-iii/1306-jump-game-iii.py",
           "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
           "lastSyncedAt": "2026-10-14T09:49:55.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "LeetCode-Submission/1345-jump-game-iv/",
+      "readmePath": "LeetCode-Submission/1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1345-jump-game-iv.py",
+          "path": "LeetCode-Submission/1345-jump-game-iv/1345-jump-game-iv.py",
+          "sha": "7dfbb4fdfa31e1a4cd1c14296853f59aac3d6cee",
+          "lastSyncedAt": "2026-10-14T09:50:08.191Z"
         }
       ]
     },

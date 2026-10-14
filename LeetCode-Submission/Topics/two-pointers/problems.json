@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T09:46:30.485Z",
+  "updatedAt": "2026-10-14T09:47:15.286Z",
   "problems": [
     {
       "frontendId": "125",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0125-valid-palindrome/0125-valid-palindrome.java",
           "sha": "bba4df2eec15b9e0daf3fb82a0d780d1f65ffe88",
           "lastSyncedAt": "2026-10-14T09:43:23.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "LeetCode-Submission/0234-palindrome-linked-list/",
+      "readmePath": "LeetCode-Submission/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0234-palindrome-linked-list.py",
+          "path": "LeetCode-Submission/0234-palindrome-linked-list/0234-palindrome-linked-list.py",
+          "sha": "43280244591c2af8fd97ea3acc16e8935bd0ec52",
+          "lastSyncedAt": "2026-10-14T09:47:15.286Z"
         }
       ]
     },

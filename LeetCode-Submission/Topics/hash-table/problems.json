@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-14T09:44:14.192Z",
+  "updatedAt": "2026-10-14T09:44:30.940Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0169-majority-element/0169-majority-element.java",
           "sha": "196fa9802ed3cbdfa98c50a12fd320b5689dd144",
           "lastSyncedAt": "2026-10-14T09:44:14.192Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "LeetCode-Submission/0242-valid-anagram/",
+      "readmePath": "LeetCode-Submission/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "LeetCode-Submission/0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "89a21e88433845f5909a7b12290790975136af31",
+          "lastSyncedAt": "2026-10-14T09:44:30.940Z"
         }
       ]
     },

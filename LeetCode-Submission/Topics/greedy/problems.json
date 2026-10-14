@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "tagId": "17"
+  },
+  "updatedAt": "2026-10-14T09:50:18.740Z",
+  "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "LeetCode-Submission/0011-container-with-most-water/",
+      "readmePath": "LeetCode-Submission/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0011-container-with-most-water.py",
+          "path": "LeetCode-Submission/0011-container-with-most-water/0011-container-with-most-water.py",
+          "sha": "f5c2dba6f85d1a2b823fb532f476825e154aae00",
+          "lastSyncedAt": "2026-10-14T09:50:18.740Z"
+        }
+      ]
+    }
+  ]
+}

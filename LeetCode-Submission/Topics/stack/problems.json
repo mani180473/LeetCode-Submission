@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-14T09:47:15.286Z",
+  "updatedAt": "2026-10-14T09:49:21.639Z",
   "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "LeetCode-Submission/0042-trapping-rain-water/",
+      "readmePath": "LeetCode-Submission/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "LeetCode-Submission/0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "7c1e2582d9902c4face5b6be37cac6f298595539",
+          "lastSyncedAt": "2026-10-14T09:49:21.639Z"
+        }
+      ]
+    },
     {
       "frontendId": "234",
       "title": "Palindrome Linked List",

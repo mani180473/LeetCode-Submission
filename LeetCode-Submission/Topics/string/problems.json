@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-14T09:46:06.125Z",
+  "updatedAt": "2026-10-14T09:46:30.485Z",
   "problems": [
     {
       "frontendId": "125",
@@ -104,6 +104,26 @@
           "path": "LeetCode-Submission/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "454f39ecdb949a32886bb0c30277342d516f7c02",
           "lastSyncedAt": "2026-10-14T09:43:55.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "LeetCode-Submission/0567-permutation-in-string/",
+      "readmePath": "LeetCode-Submission/0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "LeetCode-Submission/0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "d256b8fbc55e883daa06256c157f61b4a9a5264d",
+          "lastSyncedAt": "2026-10-14T09:46:30.485Z"
         }
       ]
     }

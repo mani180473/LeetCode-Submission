@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:46:58.013Z",
+  "updatedAt": "2026-10-14T09:47:39.624Z",
   "problems": [
     {
       "frontendId": "33",
@@ -124,6 +124,26 @@
           "path": "LeetCode-Submission/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "5d390f3a49a26e537dcb7b5a9f3873b303301a5e",
           "lastSyncedAt": "2026-10-14T09:46:58.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "LeetCode-Submission/0287-find-the-duplicate-number/",
+      "readmePath": "LeetCode-Submission/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "LeetCode-Submission/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "4dd2883e2d33743967ca9c82c33b65cc94b10ebe",
+          "lastSyncedAt": "2026-10-14T09:47:39.624Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:45:36.960Z",
+  "updatedAt": "2026-10-14T09:45:43.411Z",
   "problems": [
     {
       "frontendId": "33",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
           "sha": "d230c2c9041e73c72b5699e0ec257dd6b97d246e",
           "lastSyncedAt": "2026-10-14T09:45:36.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "problemName": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "folderPath": "LeetCode-Submission/0034-find-first-and-last-position-of-element-in-sorted-array/",
+      "readmePath": "LeetCode-Submission/0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.py",
+          "path": "LeetCode-Submission/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py",
+          "sha": "6d641feeb7e7bb6019bb68a303dd90b34e46d3cd",
+          "lastSyncedAt": "2026-10-14T09:45:43.411Z"
         }
       ]
     },

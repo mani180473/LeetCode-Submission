@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-14T09:43:45.288Z",
+  "updatedAt": "2026-10-14T09:43:55.742Z",
   "problems": [
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "LeetCode-Submission/0451-sort-characters-by-frequency/",
+      "readmePath": "LeetCode-Submission/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "LeetCode-Submission/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "454f39ecdb949a32886bb0c30277342d516f7c02",
+          "lastSyncedAt": "2026-10-14T09:43:55.742Z"
+        }
+      ]
+    },
     {
       "frontendId": "1636",
       "title": "Sort Array by Increasing Frequency",

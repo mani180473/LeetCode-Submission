@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:45:14.044Z",
+  "updatedAt": "2026-10-14T09:45:23.173Z",
   "problems": [
+    {
+      "frontendId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "problemName": "0153-find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "folderPath": "LeetCode-Submission/0153-find-minimum-in-rotated-sorted-array/",
+      "readmePath": "LeetCode-Submission/0153-find-minimum-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0153-find-minimum-in-rotated-sorted-array.py",
+          "path": "LeetCode-Submission/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
+          "sha": "862627ca5c11759f38b06efb1887fd2721dae425",
+          "lastSyncedAt": "2026-10-14T09:45:23.173Z"
+        }
+      ]
+    },
     {
       "frontendId": "875",
       "title": "Koko Eating Bananas",

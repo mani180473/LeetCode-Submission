@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-14T09:43:23.080Z",
+  "updatedAt": "2026-10-14T09:43:55.742Z",
   "problems": [
     {
       "frontendId": "125",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0125-valid-palindrome/0125-valid-palindrome.java",
           "sha": "bba4df2eec15b9e0daf3fb82a0d780d1f65ffe88",
           "lastSyncedAt": "2026-10-14T09:43:23.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "LeetCode-Submission/0451-sort-characters-by-frequency/",
+      "readmePath": "LeetCode-Submission/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "LeetCode-Submission/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "454f39ecdb949a32886bb0c30277342d516f7c02",
+          "lastSyncedAt": "2026-10-14T09:43:55.742Z"
         }
       ]
     }

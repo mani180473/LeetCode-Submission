@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T09:45:51.649Z",
+  "updatedAt": "2026-10-14T09:45:59.036Z",
   "problems": [
     {
       "frontendId": "33",
@@ -104,6 +104,26 @@
           "path": "LeetCode-Submission/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
           "sha": "862627ca5c11759f38b06efb1887fd2721dae425",
           "lastSyncedAt": "2026-10-14T09:45:23.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "LeetCode-Submission/0704-binary-search/",
+      "readmePath": "LeetCode-Submission/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "LeetCode-Submission/0704-binary-search/0704-binary-search.py",
+          "sha": "de1e104764856ef7c5b894b9cb18022695779e3d",
+          "lastSyncedAt": "2026-10-14T09:45:59.036Z"
         }
       ]
     },

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-10-14T09:46:17.533Z",
+  "problems": [
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "LeetCode-Submission/1004-max-consecutive-ones-iii/",
+      "readmePath": "LeetCode-Submission/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1004-max-consecutive-ones-iii.py",
+          "path": "LeetCode-Submission/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
+          "sha": "c8c99122115c668fea20582688274f6927ff7834",
+          "lastSyncedAt": "2026-10-14T09:46:17.533Z"
+        }
+      ]
+    }
+  ]
+}

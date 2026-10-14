@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T09:46:58.013Z",
+  "updatedAt": "2026-10-14T09:47:08.811Z",
   "problems": [
     {
       "frontendId": "33",
@@ -164,6 +164,26 @@
           "path": "LeetCode-Submission/0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
           "sha": "177d98d81ad1466e978dac179f6de69a40738406",
           "lastSyncedAt": "2026-10-14T09:44:39.518Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "LeetCode-Submission/0643-maximum-average-subarray-i/",
+      "readmePath": "LeetCode-Submission/0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0643-maximum-average-subarray-i.py",
+          "path": "LeetCode-Submission/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
+          "sha": "5ef3506325d2c98d61fb6bdabc2e0cef21112052",
+          "lastSyncedAt": "2026-10-14T09:47:08.811Z"
         }
       ]
     },

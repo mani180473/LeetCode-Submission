@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-14T09:44:30.940Z",
+  "updatedAt": "2026-10-14T09:45:00.530Z",
   "problems": [
     {
       "frontendId": "125",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Submission/0242-valid-anagram/0242-valid-anagram.java",
           "sha": "89a21e88433845f5909a7b12290790975136af31",
           "lastSyncedAt": "2026-10-14T09:44:30.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "LeetCode-Submission/0387-first-unique-character-in-a-string/",
+      "readmePath": "LeetCode-Submission/0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0387-first-unique-character-in-a-string.java",
+          "path": "LeetCode-Submission/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
+          "sha": "aba451c3d8ebe8ea503c8dd00bbeeb696b89bd6c",
+          "lastSyncedAt": "2026-10-14T09:45:00.530Z"
         }
       ]
     },

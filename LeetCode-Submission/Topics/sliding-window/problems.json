@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-14T09:46:06.125Z",
+  "updatedAt": "2026-10-14T09:46:17.533Z",
   "problems": [
     {
       "frontendId": "424",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "d4ea0e73ea062ebd2f671b9ed13072cf28101c60",
           "lastSyncedAt": "2026-10-14T09:46:06.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "LeetCode-Submission/1004-max-consecutive-ones-iii/",
+      "readmePath": "LeetCode-Submission/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1004-max-consecutive-ones-iii.py",
+          "path": "LeetCode-Submission/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
+          "sha": "c8c99122115c668fea20582688274f6927ff7834",
+          "lastSyncedAt": "2026-10-14T09:46:17.533Z"
         }
       ]
     }

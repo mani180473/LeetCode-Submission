@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T16:30:38.716Z",
+  "updatedAt": "2026-10-15T17:44:44.351Z",
   "problems": [
     {
       "frontendId": "11",
@@ -17,6 +17,14 @@
       "folderPath": "LeetCode-Submission/0011-container-with-most-water/",
       "readmePath": "LeetCode-Submission/0011-container-with-most-water/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0011-container-with-most-water.java",
+          "path": "LeetCode-Submission/0011-container-with-most-water/0011-container-with-most-water.java",
+          "sha": "3a217fd528f3132fcc7dcfd2f4febd53e51965b0",
+          "lastSyncedAt": "2026-10-15T17:44:44.351Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

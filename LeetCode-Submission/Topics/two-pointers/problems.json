@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T15:28:38.530Z",
+  "updatedAt": "2026-10-15T16:30:38.716Z",
   "problems": [
     {
       "frontendId": "11",
@@ -417,6 +417,14 @@
       "folderPath": "LeetCode-Submission/0977-squares-of-a-sorted-array/",
       "readmePath": "LeetCode-Submission/0977-squares-of-a-sorted-array/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0977-squares-of-a-sorted-array.java",
+          "path": "LeetCode-Submission/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
+          "sha": "4dd19913177d5169f80ef94c6a90ba5bc916daad",
+          "lastSyncedAt": "2026-10-15T16:30:38.716Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

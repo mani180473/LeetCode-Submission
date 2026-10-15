@@ -11,7 +11,7 @@ Contains topicwise list of solved problems.
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 6 days | 23 |
+| 0 days | 6 days | 23 |
 
 | Date | Problems |
 | --- | ---: |

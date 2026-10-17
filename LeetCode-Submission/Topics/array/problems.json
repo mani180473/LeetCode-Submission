@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T17:44:44.351Z",
+  "updatedAt": "2026-10-17T15:55:42.721Z",
   "problems": [
     {
       "frontendId": "11",
@@ -113,6 +113,14 @@
       "folderPath": "LeetCode-Submission/0027-remove-element/",
       "readmePath": "LeetCode-Submission/0027-remove-element/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "LeetCode-Submission/0027-remove-element/0027-remove-element.java",
+          "sha": "c518319c145c4da579d91d68c0ed2af5e4223885",
+          "lastSyncedAt": "2026-10-17T15:55:42.721Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

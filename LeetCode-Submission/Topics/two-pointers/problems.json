@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-17T15:55:42.721Z",
+  "updatedAt": "2026-10-17T16:43:11.208Z",
   "problems": [
     {
       "frontendId": "11",
@@ -45,6 +45,14 @@
       "folderPath": "LeetCode-Submission/0015-3sum/",
       "readmePath": "LeetCode-Submission/0015-3sum/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0015-3sum.java",
+          "path": "LeetCode-Submission/0015-3sum/0015-3sum.java",
+          "sha": "7d574bdb3415c79c88224e33e260cf0a2d9418fd",
+          "lastSyncedAt": "2026-10-17T16:43:11.208Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 21 | 21 | 2 |
+| 45 | 22 | 21 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 6 days | 23 |
+| 1 days | 6 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-13 | 1 |
 | 2026-05-17 | 1 |
 | 2026-05-18 | 2 |
 | 2026-05-24 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 1 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 64% |
-| Two Pointers | 20 | 45% |
-| Hash Table | 16 | 36% |
-| Binary Search | 11 | 25% |
-| String | 10 | 23% |
-| Sorting | 9 | 20% |
+| Array | 29 | 64% |
+| Two Pointers | 20 | 44% |
+| Hash Table | 17 | 38% |
+| Binary Search | 11 | 24% |
+| Sorting | 10 | 22% |
+| String | 10 | 22% |
 | Sliding Window | 7 | 16% |
-| Counting | 6 | 14% |
+| Counting | 6 | 13% |
 | Linked List | 5 | 11% |
 | Floyd's Cycle Finding Algorithm | 4 | 9% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Binary Search](Topics/binary-search/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
@@ -74,7 +74,7 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
 | [Two Pointers](Topics/two-pointers/) | 20 |

@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T15:47:44.259Z",
+  "updatedAt": "2026-10-27T16:03:48.817Z",
   "problems": [
     {
       "frontendId": "1",
@@ -423,7 +423,7 @@
           "filename": "0238-product-of-array-except-self.java",
           "path": "LeetCode-Submission/0238-product-of-array-except-self/0238-product-of-array-except-self.java",
           "sha": "14773e9aa4e5d949c9f44b540e74cfe84d001cbf",
-          "lastSyncedAt": "2026-10-27T15:47:44.259Z"
+          "lastSyncedAt": "2026-10-27T16:03:48.817Z"
         }
       ]
     },

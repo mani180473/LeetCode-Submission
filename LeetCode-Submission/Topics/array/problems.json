@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T16:49:43.348Z",
+  "updatedAt": "2026-10-27T15:47:44.259Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "LeetCode-Submission/0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "1f087d9fcbf9a3092bea11e1b51ab2e33312e49a",
           "lastSyncedAt": "2026-10-26T08:04:57.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "LeetCode-Submission/0238-product-of-array-except-self/",
+      "readmePath": "LeetCode-Submission/0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0238-product-of-array-except-self.java",
+          "path": "LeetCode-Submission/0238-product-of-array-except-self/0238-product-of-array-except-self.java",
+          "sha": "14773e9aa4e5d949c9f44b540e74cfe84d001cbf",
+          "lastSyncedAt": "2026-10-27T15:47:44.259Z"
         }
       ]
     },

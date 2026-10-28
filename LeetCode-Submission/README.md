@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 23 | 23 | 2 |
+| 49 | 23 | 24 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 26 |
+| 3 days | 6 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-24 | 1 |
 | 2026-05-25 | 1 |
 | 2026-05-26 | 3 |
 | 2026-05-27 | 3 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-22 | 1 |
 | 2026-10-26 | 2 |
 | 2026-10-27 | 1 |
+| 2026-10-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 67% |
-| Two Pointers | 20 | 42% |
-| Hash Table | 19 | 40% |
-| Binary Search | 11 | 23% |
-| Sorting | 11 | 23% |
-| String | 11 | 23% |
-| Sliding Window | 7 | 15% |
-| Counting | 6 | 13% |
+| Array | 33 | 67% |
+| Hash Table | 20 | 41% |
+| Two Pointers | 20 | 41% |
+| Binary Search | 11 | 22% |
+| Sorting | 11 | 22% |
+| String | 11 | 22% |
+| Sliding Window | 7 | 14% |
+| Counting | 6 | 12% |
 | Linked List | 5 | 10% |
 | Floyd's Cycle Finding Algorithm | 4 | 8% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Binary Search](Topics/binary-search/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 19 |
+| [Hash Table](Topics/hash-table/) | 20 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
@@ -78,4 +78,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 20 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->

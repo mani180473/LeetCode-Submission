@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-28T15:57:31.000Z",
+  "updatedAt": "2026-10-28T15:59:05.014Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "LeetCode-Submission/0049-group-anagrams/0049-group-anagrams.java",
           "sha": "3dbf9cef6c381b8318f0470325413ac17df19b27",
           "lastSyncedAt": "2026-10-26T15:31:30.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "LeetCode-Submission/0128-longest-consecutive-sequence/",
+      "readmePath": "LeetCode-Submission/0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0128-longest-consecutive-sequence.py",
+          "path": "LeetCode-Submission/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py",
+          "sha": "b6b1a575644caea19965b9fab6113bcd985dad92",
+          "lastSyncedAt": "2026-10-28T15:59:05.014Z"
         }
       ]
     },

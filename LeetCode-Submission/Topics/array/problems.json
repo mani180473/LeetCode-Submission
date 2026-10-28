@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T15:57:31.000Z",
+  "updatedAt": "2026-10-28T15:59:05.014Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "LeetCode-Submission/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
           "sha": "576550eff6c2d3d793599b079476e8653a11039f",
           "lastSyncedAt": "2026-10-14T09:45:30.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "LeetCode-Submission/0128-longest-consecutive-sequence/",
+      "readmePath": "LeetCode-Submission/0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0128-longest-consecutive-sequence.py",
+          "path": "LeetCode-Submission/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py",
+          "sha": "b6b1a575644caea19965b9fab6113bcd985dad92",
+          "lastSyncedAt": "2026-10-28T15:59:05.014Z"
         }
       ]
     },

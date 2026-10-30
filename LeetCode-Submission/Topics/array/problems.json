@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T15:59:05.014Z",
+  "updatedAt": "2026-10-30T16:44:28.253Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "LeetCode-Submission/0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "1f087d9fcbf9a3092bea11e1b51ab2e33312e49a",
           "lastSyncedAt": "2026-10-26T08:04:57.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "LeetCode-Submission/0219-contains-duplicate-ii/",
+      "readmePath": "LeetCode-Submission/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "LeetCode-Submission/0219-contains-duplicate-ii/0219-contains-duplicate-ii.java",
+          "sha": "c4d1162d1d1d1ca4a55fd9c448e864cfa531de82",
+          "lastSyncedAt": "2026-10-30T16:44:28.253Z"
         }
       ]
     },

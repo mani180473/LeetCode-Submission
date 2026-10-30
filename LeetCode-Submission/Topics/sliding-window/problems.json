@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-14T09:47:08.811Z",
+  "updatedAt": "2026-10-30T16:44:28.253Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Submission/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "5d390f3a49a26e537dcb7b5a9f3873b303301a5e",
           "lastSyncedAt": "2026-10-14T09:46:58.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "LeetCode-Submission/0219-contains-duplicate-ii/",
+      "readmePath": "LeetCode-Submission/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "LeetCode-Submission/0219-contains-duplicate-ii/0219-contains-duplicate-ii.java",
+          "sha": "c4d1162d1d1d1ca4a55fd9c448e864cfa531de82",
+          "lastSyncedAt": "2026-10-30T16:44:28.253Z"
         }
       ]
     },

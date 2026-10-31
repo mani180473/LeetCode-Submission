@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 25 | 24 | 2 |
+| 52 | 26 | 24 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 28 |
+| 2 days | 6 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-26 | 3 |
 | 2026-05-27 | 3 |
 | 2026-05-29 | 1 |
 | 2026-06-03 | 3 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
 | 2026-10-30 | 2 |
+| 2026-10-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 67% |
-| Hash Table | 22 | 43% |
-| Two Pointers | 20 | 39% |
-| String | 12 | 24% |
-| Binary Search | 11 | 22% |
-| Sorting | 11 | 22% |
-| Sliding Window | 8 | 16% |
+| Array | 34 | 65% |
+| Hash Table | 23 | 44% |
+| Two Pointers | 20 | 38% |
+| String | 13 | 25% |
+| Binary Search | 11 | 21% |
+| Sorting | 11 | 21% |
+| Sliding Window | 8 | 15% |
 | Counting | 6 | 12% |
 | Linked List | 5 | 10% |
 | Floyd's Cycle Finding Algorithm | 4 | 8% |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 22 |
+| [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [Two Pointers](Topics/two-pointers/) | 20 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->

@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-17T16:43:11.208Z",
+  "updatedAt": "2026-10-31T10:35:19.201Z",
   "problems": [
     {
       "frontendId": "11",
@@ -277,6 +277,14 @@
       "folderPath": "LeetCode-Submission/0202-happy-number/",
       "readmePath": "LeetCode-Submission/0202-happy-number/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0202-happy-number.java",
+          "path": "LeetCode-Submission/0202-happy-number/0202-happy-number.java",
+          "sha": "c21f547e5b16573bb6c16c7fb2183865639dabda",
+          "lastSyncedAt": "2026-10-31T10:35:19.201Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

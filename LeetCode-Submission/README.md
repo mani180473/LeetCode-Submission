@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 26 | 25 | 2 |
+| 54 | 27 | 25 | 2 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-10-30 | 2 |
 | 2026-10-31 | 1 |
-| 2026-11-01 | 1 |
+| 2026-11-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 66% |
-| Hash Table | 24 | 45% |
-| Two Pointers | 20 | 38% |
-| String | 13 | 25% |
-| Binary Search | 11 | 21% |
-| Sorting | 11 | 21% |
+| Array | 36 | 67% |
+| Hash Table | 25 | 46% |
+| Two Pointers | 21 | 39% |
+| String | 13 | 24% |
+| Binary Search | 12 | 22% |
+| Sorting | 12 | 22% |
 | Sliding Window | 8 | 15% |
 | Counting | 6 | 11% |
 | Linked List | 5 | 9% |
-| Floyd's Cycle Finding Algorithm | 4 | 8% |
+| Floyd's Cycle Finding Algorithm | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
-| [Binary Search](Topics/binary-search/) | 11 |
+| [Array](Topics/array/) | 36 |
+| [Binary Search](Topics/binary-search/) | 12 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
@@ -75,9 +75,9 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 13 |
-| [Two Pointers](Topics/two-pointers/) | 20 |
+| [Two Pointers](Topics/two-pointers/) | 21 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->

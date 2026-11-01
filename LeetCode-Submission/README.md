@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 27 | 25 | 2 |
+| 55 | 28 | 25 | 2 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-10-30 | 2 |
 | 2026-10-31 | 1 |
-| 2026-11-01 | 2 |
+| 2026-11-01 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 67% |
-| Hash Table | 25 | 46% |
-| Two Pointers | 21 | 39% |
+| Array | 37 | 67% |
+| Hash Table | 26 | 47% |
+| Two Pointers | 22 | 40% |
+| Binary Search | 13 | 24% |
+| Sorting | 13 | 24% |
 | String | 13 | 24% |
-| Binary Search | 12 | 22% |
-| Sorting | 12 | 22% |
 | Sliding Window | 8 | 15% |
 | Counting | 6 | 11% |
 | Linked List | 5 | 9% |
@@ -49,8 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
-| [Binary Search](Topics/binary-search/) | 12 |
+| [Array](Topics/array/) | 37 |
+| [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 25 |
+| [Hash Table](Topics/hash-table/) | 26 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
@@ -75,9 +75,9 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 12 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 13 |
-| [Two Pointers](Topics/two-pointers/) | 21 |
+| [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->

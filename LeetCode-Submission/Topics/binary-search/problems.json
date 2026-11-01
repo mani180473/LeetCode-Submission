@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-01T13:31:28.708Z",
+  "updatedAt": "2026-11-01T13:40:57.628Z",
   "problems": [
     {
       "frontendId": "33",
@@ -203,7 +203,7 @@
           "filename": "0350-intersection-of-two-arrays-ii.java",
           "path": "LeetCode-Submission/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.java",
           "sha": "cc2acf3778a739ac1e4d6707a635fafa56532f87",
-          "lastSyncedAt": "2026-11-01T13:31:28.708Z"
+          "lastSyncedAt": "2026-11-01T13:40:57.628Z"
         }
       ]
     },

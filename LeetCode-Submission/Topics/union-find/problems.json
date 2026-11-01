@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-28T15:59:05.014Z",
+  "updatedAt": "2026-11-01T15:03:39.712Z",
   "problems": [
     {
       "frontendId": "128",
@@ -17,6 +17,14 @@
       "folderPath": "LeetCode-Submission/0128-longest-consecutive-sequence/",
       "readmePath": "LeetCode-Submission/0128-longest-consecutive-sequence/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "LeetCode-Submission/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
+          "sha": "3adcf855f92adbf9ae2bf4e273ba6cc54aca234a",
+          "lastSyncedAt": "2026-11-01T15:03:39.712Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

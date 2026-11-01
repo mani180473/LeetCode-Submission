@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-31T10:48:06.968Z",
+  "updatedAt": "2026-11-01T10:22:27.911Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Submission/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "f1a157dfd7494635b301e31ecc1483974373e728",
           "lastSyncedAt": "2026-10-14T09:46:49.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "LeetCode-Submission/0036-valid-sudoku/",
+      "readmePath": "LeetCode-Submission/0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "LeetCode-Submission/0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "6e820e6c3e6abc23576d4c7d51f6ba35d97c5b8a",
+          "lastSyncedAt": "2026-11-01T10:22:27.911Z"
         }
       ]
     },

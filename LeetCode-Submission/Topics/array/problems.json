@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T12:25:13.632Z",
+  "updatedAt": "2026-11-03T12:54:13.401Z",
   "problems": [
     {
       "frontendId": "1",
@@ -620,6 +620,26 @@
           "path": "LeetCode-Submission/0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.java",
           "sha": "556711430a216e3f585cfc4968d05169b17915b2",
           "lastSyncedAt": "2026-11-03T11:47:22.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "problemName": "0454-4sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum-ii/",
+      "folderPath": "LeetCode-Submission/0454-4sum-ii/",
+      "readmePath": "LeetCode-Submission/0454-4sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0454-4sum-ii.java",
+          "path": "LeetCode-Submission/0454-4sum-ii/0454-4sum-ii.java",
+          "sha": "595b86bdfdeff88da4373a5f5f5a5a88121f4709",
+          "lastSyncedAt": "2026-11-03T12:54:13.401Z"
         }
       ]
     },

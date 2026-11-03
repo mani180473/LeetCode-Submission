@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-14T09:48:34.310Z",
+  "updatedAt": "2026-11-03T12:25:13.632Z",
   "problems": [
     {
       "frontendId": "141",
@@ -84,6 +84,26 @@
           "path": "LeetCode-Submission/0234-palindrome-linked-list/0234-palindrome-linked-list.py",
           "sha": "43280244591c2af8fd97ea3acc16e8935bd0ec52",
           "lastSyncedAt": "2026-10-14T09:47:15.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "LeetCode-Submission/0705-design-hashset/",
+      "readmePath": "LeetCode-Submission/0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0705-design-hashset.java",
+          "path": "LeetCode-Submission/0705-design-hashset/0705-design-hashset.java",
+          "sha": "b4c0e98de90226247389539d943c3bd351a3a313",
+          "lastSyncedAt": "2026-11-03T12:25:13.632Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-03T11:47:22.597Z",
+  "updatedAt": "2026-11-03T12:25:13.632Z",
   "problems": [
     {
       "frontendId": "380",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Submission/0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.java",
           "sha": "556711430a216e3f585cfc4968d05169b17915b2",
           "lastSyncedAt": "2026-11-03T11:47:22.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "LeetCode-Submission/0705-design-hashset/",
+      "readmePath": "LeetCode-Submission/0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0705-design-hashset.java",
+          "path": "LeetCode-Submission/0705-design-hashset/0705-design-hashset.java",
+          "sha": "b4c0e98de90226247389539d943c3bd351a3a313",
+          "lastSyncedAt": "2026-11-03T12:25:13.632Z"
         }
       ]
     }

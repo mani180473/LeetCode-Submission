@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T11:08:28.698Z",
+  "updatedAt": "2026-11-03T11:47:22.597Z",
   "problems": [
     {
       "frontendId": "1",
@@ -600,6 +600,26 @@
           "path": "LeetCode-Submission/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.java",
           "sha": "cc2acf3778a739ac1e4d6707a635fafa56532f87",
           "lastSyncedAt": "2026-11-01T13:40:57.628Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "problemName": "0380-insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+      "folderPath": "LeetCode-Submission/0380-insert-delete-getrandom-o1/",
+      "readmePath": "LeetCode-Submission/0380-insert-delete-getrandom-o1/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0380-insert-delete-getrandom-o1.java",
+          "path": "LeetCode-Submission/0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.java",
+          "sha": "556711430a216e3f585cfc4968d05169b17915b2",
+          "lastSyncedAt": "2026-11-03T11:47:22.597Z"
         }
       ]
     },

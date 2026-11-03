@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-02T17:37:51.309Z",
+  "updatedAt": "2026-11-03T11:08:28.698Z",
   "problems": [
     {
       "frontendId": "1",
@@ -440,6 +440,26 @@
           "path": "LeetCode-Submission/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "454f39ecdb949a32886bb0c30277342d516f7c02",
           "lastSyncedAt": "2026-10-14T09:43:55.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "LeetCode-Submission/0525-contiguous-array/",
+      "readmePath": "LeetCode-Submission/0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0525-contiguous-array.java",
+          "path": "LeetCode-Submission/0525-contiguous-array/0525-contiguous-array.java",
+          "sha": "9bc68e2251f4ff1a9d34b077e6b0a4979e70e9ad",
+          "lastSyncedAt": "2026-11-03T11:08:28.698Z"
         }
       ]
     },

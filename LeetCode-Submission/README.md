@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 28 | 28 | 2 |
+| 59 | 29 | 28 | 2 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 1 |
 | 2026-11-01 | 3 |
 | 2026-11-02 | 1 |
-| 2026-11-03 | 2 |
+| 2026-11-03 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 69% |
-| Hash Table | 29 | 50% |
-| Two Pointers | 22 | 38% |
+| Array | 41 | 69% |
+| Hash Table | 30 | 51% |
+| Two Pointers | 22 | 37% |
 | Binary Search | 13 | 22% |
 | Sorting | 13 | 22% |
 | String | 13 | 22% |
 | Sliding Window | 8 | 14% |
 | Counting | 6 | 10% |
-| Linked List | 5 | 9% |
-| Prefix Sum | 5 | 9% |
+| Linked List | 6 | 10% |
+| Prefix Sum | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -58,14 +58,15 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 6 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 29 |
+| [Hash Function](Topics/hash-function/) | 1 |
+| [Hash Table](Topics/hash-table/) | 30 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |

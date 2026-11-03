@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 28 | 27 | 2 |
+| 58 | 28 | 28 | 2 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 1 |
 | 2026-11-01 | 3 |
 | 2026-11-02 | 1 |
-| 2026-11-03 | 1 |
+| 2026-11-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 68% |
-| Hash Table | 28 | 49% |
-| Two Pointers | 22 | 39% |
-| Binary Search | 13 | 23% |
-| Sorting | 13 | 23% |
-| String | 13 | 23% |
+| Array | 40 | 69% |
+| Hash Table | 29 | 50% |
+| Two Pointers | 22 | 38% |
+| Binary Search | 13 | 22% |
+| Sorting | 13 | 22% |
+| String | 13 | 22% |
 | Sliding Window | 8 | 14% |
-| Counting | 6 | 11% |
+| Counting | 6 | 10% |
 | Linked List | 5 | 9% |
 | Prefix Sum | 5 | 9% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 39 |
+| [Array](Topics/array/) | 40 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -58,14 +58,15 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 6 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 28 |
+| [Hash Table](Topics/hash-table/) | 29 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
@@ -73,6 +74,7 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
+| [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 13 |

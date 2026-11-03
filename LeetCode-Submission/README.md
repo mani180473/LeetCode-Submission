@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 28 | 26 | 2 |
+| 57 | 28 | 27 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 6 days | 31 |
+| 5 days | 6 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-03 | 3 |
 | 2026-06-07 | 4 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 1 |
 | 2026-11-01 | 3 |
 | 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 68% |
-| Hash Table | 27 | 48% |
+| Array | 39 | 68% |
+| Hash Table | 28 | 49% |
 | Two Pointers | 22 | 39% |
 | Binary Search | 13 | 23% |
 | Sorting | 13 | 23% |
@@ -43,13 +43,13 @@ Contains topicwise list of solved problems.
 | Sliding Window | 8 | 14% |
 | Counting | 6 | 11% |
 | Linked List | 5 | 9% |
-| Floyd's Cycle Finding Algorithm | 4 | 7% |
+| Prefix Sum | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -62,14 +62,14 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 27 |
+| [Hash Table](Topics/hash-table/) | 28 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |

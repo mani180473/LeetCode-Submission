@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T13:28:00.409Z",
+  "updatedAt": "2026-11-04T13:54:06.404Z",
   "problems": [
     {
       "frontendId": "1",
@@ -380,6 +380,26 @@
           "path": "LeetCode-Submission/0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.java",
           "sha": "556711430a216e3f585cfc4968d05169b17915b2",
           "lastSyncedAt": "2026-11-03T11:47:22.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "LeetCode-Submission/0383-ransom-note/",
+      "readmePath": "LeetCode-Submission/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0383-ransom-note.java",
+          "path": "LeetCode-Submission/0383-ransom-note/0383-ransom-note.java",
+          "sha": "1c63047b516dda7d57ca442cca26b9fbdc59c832",
+          "lastSyncedAt": "2026-11-04T13:54:06.404Z"
         }
       ]
     },

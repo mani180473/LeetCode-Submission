@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 30 | 29 | 2 |
+| 62 | 31 | 29 | 2 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 3 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 4 |
-| 2026-11-04 | 1 |
+| 2026-11-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 69% |
-| Hash Table | 32 | 52% |
-| Two Pointers | 22 | 36% |
-| String | 14 | 23% |
+| Array | 42 | 68% |
+| Hash Table | 33 | 53% |
+| Two Pointers | 22 | 35% |
+| String | 15 | 24% |
 | Binary Search | 13 | 21% |
 | Sorting | 13 | 21% |
 | Sliding Window | 8 | 13% |
@@ -62,9 +62,9 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 32 |
+| [Hash Table](Topics/hash-table/) | 33 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 2 |
@@ -80,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->

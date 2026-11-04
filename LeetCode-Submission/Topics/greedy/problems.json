@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-15T17:44:44.351Z",
+  "updatedAt": "2026-11-04T15:31:42.492Z",
   "problems": [
     {
       "frontendId": "11",
@@ -32,6 +32,26 @@
           "path": "LeetCode-Submission/0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "f5c2dba6f85d1a2b823fb532f476825e154aae00",
           "lastSyncedAt": "2026-10-14T09:50:18.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "LeetCode-Submission/0409-longest-palindrome/",
+      "readmePath": "LeetCode-Submission/0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0409-longest-palindrome.java",
+          "path": "LeetCode-Submission/0409-longest-palindrome/0409-longest-palindrome.java",
+          "sha": "4d543152d8f722ea8b3b10d990dec1f40dce760e",
+          "lastSyncedAt": "2026-11-04T15:31:42.492Z"
         }
       ]
     }

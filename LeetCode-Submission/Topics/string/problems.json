@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-01T13:47:00.819Z",
+  "updatedAt": "2026-11-04T13:54:06.404Z",
   "problems": [
     {
       "frontendId": "3",
@@ -160,6 +160,26 @@
           "path": "LeetCode-Submission/0344-reverse-string/0344-reverse-string.py",
           "sha": "5949d668c08dd07566a8a6dfa59c7710df159fcf",
           "lastSyncedAt": "2026-10-14T09:50:38.203Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "LeetCode-Submission/0383-ransom-note/",
+      "readmePath": "LeetCode-Submission/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0383-ransom-note.java",
+          "path": "LeetCode-Submission/0383-ransom-note/0383-ransom-note.java",
+          "sha": "1c63047b516dda7d57ca442cca26b9fbdc59c832",
+          "lastSyncedAt": "2026-11-04T13:54:06.404Z"
         }
       ]
     },

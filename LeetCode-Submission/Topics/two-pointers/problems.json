@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-01T13:40:57.628Z",
+  "updatedAt": "2026-11-05T11:07:54.123Z",
   "problems": [
     {
       "frontendId": "11",
@@ -436,6 +436,26 @@
           "path": "LeetCode-Submission/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.java",
           "sha": "cc2acf3778a739ac1e4d6707a635fafa56532f87",
           "lastSyncedAt": "2026-11-01T13:40:57.628Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "532",
+      "title": "K-diff Pairs in an Array",
+      "slug": "k-diff-pairs-in-an-array",
+      "problemName": "0532-k-diff-pairs-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+      "folderPath": "LeetCode-Submission/0532-k-diff-pairs-in-an-array/",
+      "readmePath": "LeetCode-Submission/0532-k-diff-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0532-k-diff-pairs-in-an-array.java",
+          "path": "LeetCode-Submission/0532-k-diff-pairs-in-an-array/0532-k-diff-pairs-in-an-array.java",
+          "sha": "c6e7bbc6ba37a064b497366c3c2bf0c3d19b85c7",
+          "lastSyncedAt": "2026-11-05T11:07:54.123Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T11:07:54.123Z",
+  "updatedAt": "2026-11-05T13:43:00.903Z",
   "problems": [
     {
       "frontendId": "1",
@@ -620,6 +620,26 @@
           "path": "LeetCode-Submission/0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.java",
           "sha": "556711430a216e3f585cfc4968d05169b17915b2",
           "lastSyncedAt": "2026-11-03T11:47:22.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "LeetCode-Submission/0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "LeetCode-Submission/0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.java",
+          "path": "LeetCode-Submission/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.java",
+          "sha": "833c0eb31791b03ff41ada13bac64fc4666398e2",
+          "lastSyncedAt": "2026-11-05T13:43:00.903Z"
         }
       ]
     },

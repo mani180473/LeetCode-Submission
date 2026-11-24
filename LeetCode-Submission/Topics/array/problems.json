@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T15:35:23.584Z",
+  "updatedAt": "2026-11-24T16:33:31.265Z",
   "problems": [
     {
       "frontendId": "1",
@@ -753,6 +753,14 @@
       "folderPath": "LeetCode-Submission/0643-maximum-average-subarray-i/",
       "readmePath": "LeetCode-Submission/0643-maximum-average-subarray-i/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0643-maximum-average-subarray-i.java",
+          "path": "LeetCode-Submission/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.java",
+          "sha": "23836b47fd578ce344967d61d6a102efc31bfb4f",
+          "lastSyncedAt": "2026-11-24T16:33:31.265Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",

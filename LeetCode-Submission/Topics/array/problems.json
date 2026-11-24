@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T15:19:20.621Z",
+  "updatedAt": "2026-11-24T15:35:23.584Z",
   "problems": [
     {
       "frontendId": "1",
@@ -492,6 +492,26 @@
           "path": "LeetCode-Submission/0238-product-of-array-except-self/0238-product-of-array-except-self.java",
           "sha": "14773e9aa4e5d949c9f44b540e74cfe84d001cbf",
           "lastSyncedAt": "2026-10-27T16:03:48.817Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "LeetCode-Submission/0268-missing-number/",
+      "readmePath": "LeetCode-Submission/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "LeetCode-Submission/0268-missing-number/0268-missing-number.java",
+          "sha": "dba94bb7fbdb607e894cdde8ed3baf6e14f48088",
+          "lastSyncedAt": "2026-11-24T15:35:23.584Z"
         }
       ]
     },

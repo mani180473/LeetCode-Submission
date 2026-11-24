@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T16:33:31.265Z",
+  "updatedAt": "2026-11-24T16:58:58.977Z",
   "problems": [
     {
       "frontendId": "1",
@@ -412,6 +412,26 @@
           "path": "LeetCode-Submission/0169-majority-element/0169-majority-element.java",
           "sha": "196fa9802ed3cbdfa98c50a12fd320b5689dd144",
           "lastSyncedAt": "2026-11-04T13:28:00.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "LeetCode-Submission/0189-rotate-array/",
+      "readmePath": "LeetCode-Submission/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "LeetCode-Submission/0189-rotate-array/0189-rotate-array.java",
+          "sha": "728bac4e500c8e1dc021fb7b8ae3db0780694ed0",
+          "lastSyncedAt": "2026-11-24T16:58:58.977Z"
         }
       ]
     },

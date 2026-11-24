@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-14T09:47:39.624Z",
+  "updatedAt": "2026-11-24T15:35:23.584Z",
   "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "LeetCode-Submission/0268-missing-number/",
+      "readmePath": "LeetCode-Submission/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "LeetCode-Submission/0268-missing-number/0268-missing-number.java",
+          "sha": "dba94bb7fbdb607e894cdde8ed3baf6e14f48088",
+          "lastSyncedAt": "2026-11-24T15:35:23.584Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",
